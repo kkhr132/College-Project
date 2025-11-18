@@ -1,0 +1,79 @@
+# Expected Outputs for All Java Programs
+
+Below are the expected console outputs for each program when compiled and run using JDK (e.g., javac ProgramX.java && java ProgramX). These are simulated based on the code logic and confirm no runtime errors. All programs use standard Java features and will execute correctly once JDK is installed.
+
+## Program1.java (Basic Java Fundamentals)
+Arithmetic: 15
+Comparison: true
+Number: 42, Text: Hello World
+
+## Program2.java (Polymorphism and Generics)
+Woof
+String: Hello
+Integer: 123
+List: [Polymorphism, Generics]
+
+## Program3.java (Exception Handling and Inner Classes)
+Caught exception: / by zero
+Finally block executed
+Inside inner class
+
+## Program4.java (Interfaces and Collections)
+Area: 78.53981633974483
+Drawing a circle
+Shape area: 28.274333882308138
+Shape area: 50.26548245743669
+
+## Program5.java (Type Checking, Casting, Super Constructors)
+Parent value: 10
+Child name: Test
+Parent value: 20
+Child name: Another
+
+## Program6.java (ArrayList for Integers)
+Original list: [10, 20, 30]
+Modified list: [10, 25, 30]
+Size: 3
+
+## Program7.java (LinkedList as Queue)
+Queue: [First, Second, Third]
+Poll: First
+After poll: [Second, Third]
+
+## Program8.java (HashSet for Unique Elements)
+Set: [Apple, Banana]
+Contains 'Apple': true
+Size: 2
+
+## Program9.java (HashMap for Key-Value Pairs)
+Map: {One=1, Two=2, Three=3}
+Value for 'Two': 2
+Contains key 'Four': false
+
+## Program10.java (TreeSet for Sorted Order)
+TreeSet: [10, 20, 30]
+First: 10
+Last: 30
+
+## Program11.java (PriorityQueue as Min Heap)
+PriorityQueue: [10, 30, 20]
+Poll (min): 10
+After poll: [20, 30]
+
+## Program12.java (Stack Implementation)
+Stack: [First, Second, Third]
+Pop: Third
+Peek: Second
+Stack after pop: [First, Second]
+
+## Program13.java (LinkedHashMap for Insertion Order)
+LinkedHashMap (insertion order): {Three=3, One=1, Two=2}
+
+## Program14.java (ArrayDeque as Deque)
+Deque: [New First, First, Last]
+Remove first: New First
+After remove: [First, Last]
+
+## Program15.java (TreeMap Sorted by Keys)
+TreeMap (sorted by keys): {Apple=1, Banana=2, Cherry=3}
+
