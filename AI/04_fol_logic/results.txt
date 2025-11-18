@@ -1,0 +1,3 @@
+Is Socrates mortal? True
+Is Plato mortal? True
+Is Socrates human? True
